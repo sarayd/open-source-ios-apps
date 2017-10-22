@@ -14556,7 +14556,7 @@
       "tags": [
         "object"
       ],
-      "description": "Copy and paste between devices",
+      "description": "An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.",
       "source": "https://github.com/panicinc/PunchClock",
       "screenshots": [
         
